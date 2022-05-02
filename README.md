@@ -1,4 +1,4 @@
-# awesome-neural-reprogramming-prompting ![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-neural-reprogramming-prompting ![Awesome](https://awesome.re/badge.svg)
 
 A curated list of awesome adversarial reprogramming and input prompting methods for neural networks since 2022.
 
