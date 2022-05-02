@@ -20,3 +20,4 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 |[Transfer learning without knowing: Reprogramming black-box machine learning models with scarce data and limited resources](http://proceedings.mlr.press/v119/tsai20a/tsai20a.pdf)|Y Tsai et al.|[code](https://github.com/yunyuntsai/Black-box-Adversarial-Reprogramming)|ICML 2020|
 |[Reprogramming GANs via Input Noise Design](http://csuh.kaist.ac.kr/Suh_Reprogramming_GAN.pdf)|K Lee et al.|-|ECML 2019|
 |[Adversarial Reprogramming of Text Classification Neural Networks](https://arxiv.org/abs/1809.01829)| P. Neekhara et al. |[code](https://github.com/paarthneekhara/rnn_adversarial_reprogramming)|EMNLP 2019|
+|[Adversarial reprogramming of neural networks](https://arxiv.org/pdf/1806.11146.pdf)|F. Elsayed et al.|[code](https://github.com/Prinsphield/Adversarial_Reprogramming)|ICLR 2019|
