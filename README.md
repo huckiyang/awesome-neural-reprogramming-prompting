@@ -23,3 +23,9 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 |[Adversarial reprogramming of neural networks](https://arxiv.org/pdf/1806.11146.pdf)|F. Elsayed et al.|[code](https://github.com/Prinsphield/Adversarial_Reprogramming)|ICLR 2019|
 
 ## Neural Model Prompting
+
+| Title | Authors | Code | Year |
+| ----- | ------- | -------- | ---- |
+|[WAVPROMPT: Towards Few-Shot Spoken Language Understanding with Frozen Language Models](https://arxiv.org/pdf/2203.15863.pdf)|H. Gao et al.|-|Arxiv 2022|
+|[An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks](https://arxiv.org/pdf/2203.16773.pdf)| K.-W. Chang et al. |-|Arxiv 2022|
+|[Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models](https://arxiv.org/pdf/2203.17274.pdf)|H. Bahng et al.|-|Arxiv 2022|
