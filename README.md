@@ -26,7 +26,6 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-
 |[AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143)|Z. Borsos et al.|-|Arxiv 2022|
 |[WAVPROMPT: Towards Few-Shot Spoken Language Understanding with Frozen Language Models](https://arxiv.org/pdf/2203.15863.pdf)|H. Gao et al.|-|Arxiv 2022|
 |[An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks](https://arxiv.org/pdf/2203.16773.pdf)| K.-W. Chang et al. |[code](https://github.com/ga642381/SpeechPrompt)|Arxiv 2022|
