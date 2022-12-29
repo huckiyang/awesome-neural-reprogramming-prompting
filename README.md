@@ -12,6 +12,7 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+|[Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming](https://openreview.net/pdf?id=00EiAK1LHs)|Huzaifa Arif et al.|-|SaTML 2023|
 |[Low-Resource Music Genre Classification with Advanced Neural Model Reprogramming](https://arxiv.org/pdf/2211.01317.pdf)|Y.-N. Hung et al.|-|Arxiv 2022|
 |[Reprogramming Large Pretrained Language Models for Antibody Sequence Infilling](https://arxiv.org/pdf/2210.07144.pdf)|I. Melnyk et al.|-|Arxiv 2022|
 |[Adversarial Reprogramming Revisited](https://arxiv.org/abs/2206.03466)|M. Englert et al.|-|Arxiv 2022|
