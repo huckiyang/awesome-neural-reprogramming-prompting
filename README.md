@@ -8,10 +8,11 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 <img src="https://github.com/huckiyang/awesome-neural-reprogramming-prompting/blob/main/repro-prompt-chh.png" width="300">
 
-## Neural Reprogramming or Adversarial Reprogramming
+## Neural Reprogramming or Adversarial Reprogramming or Offsite-Tuning
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+|[Offsite-Tuning: Transfer Learning without Full Model]([https://arxiv.org/pdf/2211.08379.pdf](https://arxiv.org/pdf/2302.04870.pdf)|G. Xiao et al.|[code](https://arxiv.org/pdf/2302.04870.pdf)|arxiv 2023|
 |[Music Instrument Classification Reprogrammed](https://arxiv.org/pdf/2211.08379.pdf)|H.-H. Chen et al.|-|MMM 2023|
 |[From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition](https://arxiv.org/pdf/2301.07851.pdf)|CHH Yang et al.|-|ICASSP 2023|
 |[Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming](https://openreview.net/pdf?id=00EiAK1LHs)|Huzaifa Arif et al.|[code](https://github.com/IBM/reprogrammble-FL)|SaTML 2023|
