@@ -14,7 +14,7 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 | ----- | ------- | -------- | ---- |
 |[Music Instrument Classification Reprogrammed](https://arxiv.org/pdf/2211.08379.pdf)|H.-H. Chen et al.|-|MMM 2023|
 |[From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition](https://arxiv.org/pdf/2301.07851.pdf)|CHH Yang et al.|-|ICASSP 2023|
-|[Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming](https://openreview.net/pdf?id=00EiAK1LHs)|Huzaifa Arif et al.|-|SaTML 2023|
+|[Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming](https://openreview.net/pdf?id=00EiAK1LHs)|Huzaifa Arif et al.|[code](https://github.com/IBM/reprogrammble-FL)|SaTML 2023|
 |[Fairness Reprogramming](https://openreview.net/pdf?id=Nay_rOB-dZv)|G. Zhang et al.|-|NeurIPS 2022|
 |[Low-Resource Music Genre Classification with Advanced Neural Model Reprogramming](https://arxiv.org/pdf/2211.01317.pdf)|Y.-N. Hung et al.|[code](https://github.com/biboamy/music-repro)|ICASSP 2023|
 |[Reprogramming Large Pretrained Language Models for Antibody Sequence Infilling](https://arxiv.org/pdf/2210.07144.pdf)|I. Melnyk et al.|-|Arxiv 2022|
