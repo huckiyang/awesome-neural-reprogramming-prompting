@@ -30,7 +30,7 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 |[Adversarial Reprogramming of Text Classification Neural Networks](https://arxiv.org/abs/1809.01829)| P. Neekhara et al. |[code](https://github.com/paarthneekhara/rnn_adversarial_reprogramming)|EMNLP 2019|
 |[Adversarial reprogramming of neural networks](https://arxiv.org/pdf/1806.11146.pdf)|F. Elsayed et al.|[code](https://github.com/Prinsphield/Adversarial_Reprogramming)|ICLR 2019|
 
-## Input-Level Neural Model Prompting
+## Input-Level Neural Model Prompting for Vision and Speech
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
