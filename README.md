@@ -37,7 +37,7 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 |[Understanding and Improving Visual Prompting: A Label-Mapping Perspective](https://arxiv.org/abs/2211.11635)|A. Chen et al.|-|Arxiv 2022|
 |[AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143)|Z. Borsos et al.|-|Arxiv 2022|
 |[WAVPROMPT: Towards Few-Shot Spoken Language Understanding with Frozen Language Models](https://arxiv.org/pdf/2203.15863.pdf)|H. Gao et al.|-|Arxiv 2022|
-|[An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks](https://arxiv.org/pdf/2203.16773.pdf)| K.-W. Chang et al. |[code](https://github.com/ga642381/SpeechPrompt)|Arxiv 2022|
+|[An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks](https://arxiv.org/pdf/2203.16773.pdf)| K.-W. Chang et al. |[code](https://github.com/ga642381/SpeechPrompt)|Interspeech 2022|
 |[Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models](https://arxiv.org/pdf/2203.17274.pdf)|H. Bahng et al.|-|Arxiv 2022|
 
 ## Theory
