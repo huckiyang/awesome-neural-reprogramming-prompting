@@ -8,6 +8,13 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 <img src="https://github.com/huckiyang/awesome-neural-reprogramming-prompting/blob/main/repro-prompt-chh.png" width="300">
 
+## Neural Adapters in Decoder, Encoder, and Inputs
+
+| Title | Authors | Code | Year |
+| ----- | ------- | -------- | ---- |
+|[Differentially Private Adapters for Parameter Efficient Acoustic Modeling
+](https://arxiv.org/abs/2305.11360)|C.-W. Ho et al.|[code](https://github.com/Chun-wei-Ho/)|Interspeech 2023|
+
 ## Neural Reprogramming or Adversarial Reprogramming or Offsite-Tuning
 
 | Title | Authors | Code | Year |
