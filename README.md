@@ -12,8 +12,9 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Differentially Private Adapters for Parameter Efficient Acoustic Modeling
-](https://arxiv.org/abs/2305.11360)|C.-W. Ho et al.|[code](https://github.com/Chun-wei-Ho/)|Interspeech 2023|
+|[Differentially Private Adapters for Parameter Efficient Acoustic Modeling](https://arxiv.org/abs/2305.11360)|C.-W. Ho et al.|[code](https://github.com/Chun-wei-Ho/)|Interspeech 2023|
+|[Parameter-Efficient Learning for Text-to-Speech Accent Adaptation](https://arxiv.org/abs/2305.11320)|L.-J. Yang et al.|[code](https://tts-research.github.io/)|Interspeech 2023|
+|[A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General-Purpose Speech Model](https://arxiv.org/pdf/2305.11244)|S. Radhakrishnan et al.|[code](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter)|Interspeech 2023|
 
 ## Neural Reprogramming or Adversarial Reprogramming or Offsite-Tuning
 
