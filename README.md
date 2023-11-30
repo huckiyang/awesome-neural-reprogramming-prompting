@@ -20,7 +20,9 @@ How to **empower frozen large-scale pre-trained models** with reprogramming and 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-|[Offsite-Tuning: Transfer Learning without Full Model](https://arxiv.org/pdf/2302.04870.pdf)|G. Xiao et al.|[code](https://github.com/mit-han-lab/offsite-tuning)|arxiv 2023|
+|[Reprogramming Self-supervised Learning-based Speech
+Representations for Speaker Anonymization](https://arxiv.org/pdf/2302.04870.pdf)|X. Chen et al.|-|ACM MM Asia 2023|
+|[Offsite-Tuning: Transfer Learning without Full Model](https://arxiv.org/abs/2311.10664)|G. Xiao et al.|[code](https://github.com/mit-han-lab/offsite-tuning)|arxiv 2023|
 |[Music Instrument Classification Reprogrammed](https://arxiv.org/pdf/2211.08379.pdf)|H.-H. Chen et al.|-|MMM 2023|
 |[From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition](https://arxiv.org/pdf/2301.07851.pdf)|CHH Yang et al.|-|ICASSP 2023|
 |[Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming](https://openreview.net/pdf?id=00EiAK1LHs)|Huzaifa Arif et al.|[code](https://github.com/IBM/reprogrammble-FL)|SaTML 2023|
